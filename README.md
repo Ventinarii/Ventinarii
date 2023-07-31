@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming games, desktop apps, mobile apps \\(not best with UI)
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on n/a
-- 📫 How to reach me rajzer.filip@gmail.com, Discord HaveLock#2379
+- 📫 How to reach me rajzer.filip@gmail.com
 
 <!---
 Ventinarii/Ventinarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
